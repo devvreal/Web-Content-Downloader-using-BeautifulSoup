@@ -32,6 +32,6 @@ def download_website(url, folder_path):
         download_file(js_file, folder_path)
 
 url = 'https://rollbit.com/'
-folder_path = r'C:\Users\ashab\OneDrive\Desktop\Neuer Ordner (4)'
+folder_path = r'C:\urpath'
 
 download_website(url, folder_path)
